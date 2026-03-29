@@ -1,3 +1,0 @@
-Pushing to https://github.com/vishnuk1772002/vc-ads-lab-2.git
-POST git-receive-pack (chunked)
-^C
